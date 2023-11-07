@@ -1,0 +1,32 @@
+h1{
+    padding: 20px 30px;
+    font-size: 24px;
+    color: #fff; /* Text color */
+    text-shadow: 
+        -1px -1px 0 #000, /* Top-left shadow */
+        1px -1px 0 #000, /* Top-right shadow */
+        -1px 1px 0 #000, /* Bottom-left shadow */
+        1px 1px 0 #000; /* Bottom-right shadow */
+}
+
+p{
+    text-align: center; /* Center align the text */
+    width: 70%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the element horizontally */
+    line-height: 1.5; /* Adjust the line height for spacing between lines */
+    letter-spacing: 2px; /* Adjust letter-spacing for spacing between words */
+  
+}
+
+.weDo{
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 2px solid white;
+}
+
+.announcement-section {
+    
+  }

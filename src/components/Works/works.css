@@ -1,0 +1,20 @@
+.project-box {
+    width: 420px; /* Adjust the box width as needed */
+    border: 1px solid #fff; /* White border */
+    text-align: center;
+    margin: 10px; /* Adjust the margin for spacing */
+    display: inline-block;
+  }
+
+  /* Styles for project images */
+  .project-image {
+    width: 17vw; /* Adjust the image size as needed */
+    height: 40vh; /* Adjust the image size as needed */
+    margin: 20px 0;
+  }
+
+  /* Additional styling for project descriptions */
+  .project-description {
+    font-size: 16px;
+  }
+

@@ -1,0 +1,49 @@
+
+
+.navbar {
+    background-color: #84a6b4; /* Adjust the background color as needed */
+    padding: 10px 0; /* Add padding to the top and bottom for spacing */
+    font-size: 28px;
+  }
+
+  
+  .desktopMenu {
+    display: flex;
+    align-items: center; /* Vertically center the logo and links */
+    justify-content: space-between; /* Create space between the logo and links */
+    max-width: 1200px; /* Optional: Limit the maximum width of the content */
+    margin: 0 auto; /* Optional: Center the content horizontally */
+  }
+  
+  .logo {
+    width: 25rem; /* Adjust the width of the logo as needed */
+    height: auto; /* Maintain the aspect ratio of the logo */
+    margin-right: 20px; /* Add margin to the right of the logo for spacing */
+  }
+  
+  .nav-links {
+    display: flex;
+    align-items: center; /* Vertically center the links */
+  }
+
+  .nav-links a {
+    color: #fff; /* Adjust the text color as needed */
+    text-decoration: none; /* Remove underline from links */
+    margin-right: 20px; /* Add margin to the right of the links for spacing */
+    font-weight: bold; /* Optional: Apply font weight to the links */
+  }
+  
+  .nav-links a:hover{
+    color: rgb(122, 115, 115);
+    background-color: #cce8ec;
+    border-radius: 25px;
+    border: 4px solid white;
+    transition: color 0.3s, padding 0.3s, border 0.3s; /* Add smooth transition effects */
+    padding: 10px 20px;
+  }
+  
+  
+  .nav-links a:last-child {
+    margin-right: 0; /* Remove margin from the last link to avoid extra spacing */
+  }
+  
