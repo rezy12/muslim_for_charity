@@ -1,6 +1,7 @@
 import React from 'react'
 import "./navBar.css"
-import logo from "../img/logo.jpg"
+import logo from "../img/logo.jpg";
+import { Link } from "react-router-dom";
 
 
 const NavBar = () => {
@@ -11,10 +12,10 @@ const NavBar = () => {
       <div className='desktopMenu'>
         <img src={logo} alt='' className='logo' />
         <div className='nav-links'>
-          <a href="#intro">Home</a>
-          <a href="#works">Works</a>
-          <a href="#contact">Contact</a>
-          <a href="#donate">Donate</a>
+          <Link to="/">Home</Link>
+          <Link to="/works">Works</Link>
+          <Link to="/contact">Contact</Link>
+          <Link to="/donate">Donate</Link>
         </div>
       </div>
     </nav>

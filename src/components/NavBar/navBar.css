@@ -46,4 +46,11 @@
   .nav-links a:last-child {
     margin-right: 0; /* Remove margin from the last link to avoid extra spacing */
   }
+
+  @media screen and (max-width: 768px) {
+    .nav-links{
+      width: 20px;
+
+    }
+  }
   
