@@ -8,7 +8,7 @@
 
   /* Styles for project images */
   .project-image {
-    width: 17vw; /* Adjust the image size as needed */
+    width: 100%; /* Adjust the image size as needed */
     height: 40vh; /* Adjust the image size as needed */
     margin: 20px 0;
   }

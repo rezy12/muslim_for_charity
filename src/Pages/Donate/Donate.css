@@ -1,0 +1,57 @@
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  .donation-methods {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+
+  .donation-method {
+    border: solid #bdbdbd 1px;
+    border-radius: 25px;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+  }
+
+  .donation-method img {
+    margin-top: 25px;
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  .clothing-equipment-section {
+    margin: 50px 0;
+  }
+
+  .help-others-section {
+    text-align: center;
+    margin: 50px 0;
+  }
+
+  .donation-items {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+
+  .donation-item {
+    border: solid #bdbdbd 1px;
+    border-radius: 25px;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+  }
+
+  .donation-item img {
+    margin-top: 25px;
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  .help-others-section {
+    text-align: center;
+    margin: 50px 0;
+  }

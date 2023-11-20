@@ -24,6 +24,7 @@
   .nav-links {
     display: flex;
     align-items: center; /* Vertically center the links */
+    margin-right: 15%;
   }
 
   .nav-links a {
