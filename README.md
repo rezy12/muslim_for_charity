@@ -21,7 +21,4 @@ Welcome to the "Muslim for Charity" project! This project is designed to serve a
 - JavaScript (if applicable)
 - [Additional technologies or frameworks used]
 
-## Setup
 
-1. **Clone the Repository:**
-   ```bash
