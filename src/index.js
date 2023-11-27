@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import Contact from './Pages/Contact/Contact';
 import Donate from './Pages/Donate/Donate';
-import Works from './Pages/Works/Works';
+import History from './Pages/History/History';
 
 import {
   createBrowserRouter,
@@ -28,8 +28,8 @@ const router = createBrowserRouter([
   },
 
   {
-    path: "works",
-    element: <Works/>,
+    path: "history",
+    element: <History/>,
   },
 
 ]);

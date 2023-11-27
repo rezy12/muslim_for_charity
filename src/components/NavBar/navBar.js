@@ -13,7 +13,7 @@ const NavBar = () => {
         <img src={logo} alt='' className='logo' />
         <div className='nav-links'>
           <Link to="/">Home</Link>
-          <Link to="/works">Works</Link>
+          <Link to="/history">History</Link>
           <Link to="/contact">Contact</Link>
           <Link to="/donate">Donate</Link>
         </div>

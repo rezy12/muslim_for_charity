@@ -1,5 +1,6 @@
 import React from 'react'
 import NavBar from '../../components/NavBar/navBar';
+import Footer from '../../components/Footer/footer';
 import ApplePay from "../../components/img/apple-pay-image.jpg";
 import PayPal from "../../components/img/paypal-pay-image.png";
 import Zelle from "../../components/img/zelle-pay-image.png";
@@ -88,7 +89,7 @@ function Donate() {
 
 
 
-
+        <Footer />
 
 
 

@@ -31,8 +31,8 @@ body {
   }
 
   .GroupImg{
-    height: 25vh;
-    width: 27vw;
+    height: 100%;
+    width: 100%;
   }
 
   .past1, .past2{
@@ -42,8 +42,33 @@ body {
     margin: 20px 0;
   }
 
-  .pastimg{
-    width: 45%;
+  .LeftSide{
+    width: 50%;
     padding: 20px;
     box-sizing: border-box;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
   }
+
+  .RightSide{
+    width: 50%;
+    /* padding: 20px; */
+    /* box-sizing: border-box; */
+    height: -11%;
+    /* border: solid green 16px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+
+  }
+
+  
+
+  
+
+ 
+  

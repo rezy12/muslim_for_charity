@@ -3,6 +3,7 @@ import NavBar from '../../components/NavBar/navBar';
 import Instagram from "../../components/img/instagram.jpg";
 import Snapchat from "../../components/img/snapchat.jpg";
 import "../Contact/Contact.css";
+import Footer from '../../components/Footer/footer';
 
 function Contact() {
   return (
@@ -38,6 +39,9 @@ function Contact() {
 
           <p>Together, we can create a ripple effect of kindness and compassion. If you have any questions or need further assistance, please feel free to reach out. Your support is truly appreciated.</p>
         </section>
+
+
+        <Footer />
 
         
     </div>
