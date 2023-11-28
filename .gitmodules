@@ -1,0 +1,3 @@
+[submodule "muslim_for_charity"]
+	path = muslim_for_charity
+	url = https://github.com/example/muslim_for_charity.git
